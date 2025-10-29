@@ -1,29 +1,24 @@
+# 👋 Hello, I'm **Abdallah Mohamed** (MrLazyC0der)
 
-# 👋 Hello, I'm Abdallah Mohamed (MrLazyC0der)
-🎓 Computer Science Student | 💻 Full Stack Developer  
-📍 Mansoura University, Egypt  
+🎓 Computer Science Student | 💻 Front-End & Back-End Developer  
+🧠 Passionate about learning and building real-world projects  
 
-### 📫 Connect with me:
+---
+
+### 📫 Connect with Me  
 <p align="left">
-  <a href="mailto:engabdallahmo@icloud.com"><img src="https://img.shields.io/badge/Email-engabdallahmo%40icloud.com-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/engabdallahmohamed/"><img src="https://img.shields.io/badge/LinkedIn-Abdallah%20Mohamed-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.facebook.com/abdallah.mohamed.712132"><img src="https://img.shields.io/badge/Facebook-Abdallah%20Mohamed-blue?style=for-the-badge&logo=facebook"></a>
+  <a href="mailto:engabdallahmo@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-engabdallahmo%40icloud.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/engabdallahmohamed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdallah%20Mohamed-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/abdallah.mohamed.712132" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Abdallah%20Mohamed-0078D4?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 
 ---
-
-### 👨‍💻 About Me:
-I'm a **Computer Science student** and a **Full Stack Developer** who enjoys turning ideas into interactive, responsive, and efficient web applications.  
-I focus on mastering both **Front End** and **Back End** development using modern technologies.
-
-- 🌱 Currently learning: **React.js, Next.js, Node.js, and Cloud Fundamentals**  
-- 💡 Interested in: **Web Development, Cloud, and Scalable Systems**  
-- 🎯 Goal: To become a professional **Full Stack Developer**  
-- 📫 Reach me at: **engabdallahmo@icloud.com**
-
----
-
-### ⚙️ Tech Stack
 
 ## 🧰 Tech Stack
 
@@ -53,26 +48,9 @@ I focus on mastering both **Front End** and **Back End** development using moder
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="55" height="55" style="filter: brightness(2);"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-![MrLazyC0der's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrLazyC0der&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrLazyC0der&layout=compact&theme=tokyonight)
-
----
-
-### 🌐 Connect with Me:
-<a href="mailto:engabdallahmo@icloud.com"><img  src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/MrLazyC0der"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/engabdallahmohamed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/abdallah.mohamed.712132"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-
-📱 010 9076 8249
-
----
+-
 
 ⭐ *“Code. Learn. Build. Repeat.”* 🚀
 
