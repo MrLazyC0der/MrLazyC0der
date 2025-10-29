@@ -18,11 +18,11 @@ I focus on mastering both **Front End** and **Back End** development using moder
 ### ⚙️ Tech Stack
 
 #### 💻 Programming Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0A0F24?style=for-the-badge&logo=c-sharp&logoColor=2F74C0)
+![Python](https://img.shields.io/badge/Python-0A0F24?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0F24?style=for-the-badge&logo=javascript&logoColor=F7E018)
+![HTML](https://img.shields.io/badge/HTML-0A0F24?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0A0F24?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 #### ⚡ Frameworks & Libraries
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
