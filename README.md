@@ -4,17 +4,15 @@
 🧠 Passionate about learning and building real-world projects  
 
 
-
-### 📫 Connect with Me  
-<p align="center" style="text-decoration: none;">
-  <a href="mailto:engabdallahmo@icloud.com" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="55" height="55" style="margin-right: 25px;"/>
+<p align="center" style="display: flex; justify-content: center; gap: 35px;">
+  <a href="mailto:engabdallahmo@icloud.com" target="_blank" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="55" height="55" style="vertical-align: middle;"/>
   </a>
-  <a href="https://www.linkedin.com/in/engabdallahmohamed/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="55" height="55" style="margin-right: 25px;"/>
+  <a href="https://www.linkedin.com/in/engabdallahmohamed/" target="_blank" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="55" height="55" style="vertical-align: middle;"/>
   </a>
-  <a href="https://www.facebook.com/abdallah.mohamed.712132" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="55" height="55" style="margin-right: 25px;"/>
+  <a href="https://www.facebook.com/abdallah.mohamed.712132" target="_blank" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="55" height="55" style="vertical-align: middle;"/>
   </a>
 </p>
 
