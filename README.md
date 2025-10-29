@@ -5,12 +5,18 @@
 
 
 
-### 📫 Connect with Me  
-<p align="center " style="display: flex; gap: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="55" height="55"/>
+<p align="left" style="display: flex; align-items: center; gap: 12px;">
+  <a href="mailto:engabdallahmo@icloud.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-engabdallahmo%40icloud.com-1E90FF?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud Email"/>
+</a>
+  <a href="https://www.linkedin.com/in/engabdallahmohamed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdallah%20Mohamed-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/abdallah.mohamed.712132" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Abdallah%20Mohamed-0078D4?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
+
 
 
 ## 🧰 Tech Stack
