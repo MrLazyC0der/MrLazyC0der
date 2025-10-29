@@ -2,8 +2,9 @@
 
 🎓 Computer Science Student | 💻 Front-End & Back-End Developer  
 🧠 Passionate about learning and building real-world projects  
+<hr/>
 
-
+### 📫 Connect with Me  
 <p align="center" style="display: flex; justify-content: center; gap: 35px;">
   <a href="mailto:engabdallahmo@icloud.com" target="_blank" style="text-decoration: none; outline: none; border: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="55" height="55" style="vertical-align: middle;"/>
@@ -15,7 +16,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="55" height="55" style="vertical-align: middle;"/>
   </a>
 </p>
-
+<hr/>
 
 
 
