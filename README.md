@@ -1,6 +1,14 @@
-## Hi there 👋
-<h1 align="center">Hey 👋, I'm Abdallah Mohamed Elsayed</h1>
-<h3 align="center" style="color:#1E90FF">Front End & Back End Developer | CS Student 💻</h3>
+
+# 👋 Hello, I'm Abdallah Mohamed (MrLazyC0der)
+🎓 Computer Science Student | 💻 Full Stack Developer  
+📍 Mansoura University, Egypt  
+
+### 📫 Connect with me:
+<p align="left">
+  <a href="mailto:engabdallahmo@icloud.com"><img src="https://img.shields.io/badge/Email-engabdallahmo%40icloud.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/engabdallahmohamed/"><img src="https://img.shields.io/badge/LinkedIn-Abdallah%20Mohamed-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.facebook.com/abdallah.mohamed.712132"><img src="https://img.shields.io/badge/Facebook-Abdallah%20Mohamed-blue?style=for-the-badge&logo=facebook"></a>
+</p>
 
 ---
 
