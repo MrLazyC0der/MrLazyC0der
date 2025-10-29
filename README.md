@@ -14,7 +14,7 @@
 - 🌍 Currently focusing on **Full Stack Development** using **React**, **Node.js**, and **Next.js**.  
 - 🚀 I enjoy building clean, modern web applications that provide great user experiences.  
 - 📘 Always exploring new technologies — because learning never stops.  
-- 🎯 Goal: To become a professional **AI & Cloud Engineer** in the future.  
+
 
 ---
 
@@ -48,17 +48,18 @@
 ---
 
 ## 📫 Connect with Me  
-<p align="center" style="display: flex; justify-content: center; gap: 35px;">
-  <a href="mailto:engabdallahmo@icloud.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="50" height="50"/>
+<p align="left" style="display: flex; justify-content: center; gap: 35px;">
+  <a href="mailto:engabdallahmo@icloud.com" target="_blank" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="50" height="50" style="border: none; outline: none;"/>
   </a>
-  <a href="https://www.linkedin.com/in/engabdallahmohamed/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+  <a href="https://www.linkedin.com/in/engabdallahmohamed/" target="_blank" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="border: none; outline: none;"/>
   </a>
-  <a href="https://www.facebook.com/abdallah.mohamed.712132" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50"/>
+  <a href="https://www.facebook.com/abdallah.mohamed.712132" target="_blank" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" style="border: none; outline: none;"/>
   </a>
 </p>
+
 
 ---
 
