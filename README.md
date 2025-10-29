@@ -47,7 +47,7 @@ I focus on mastering both **Front End** and **Back End** development using moder
 ---
 
 ### 🌐 Connect with Me:
-<a href="mailto:engabdallahmo@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:engabdallahmo@icloud.com"><img  src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/MrLazyC0der"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/engabdallahmohamed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/abdallah.mohamed.712132"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white"/></a>
