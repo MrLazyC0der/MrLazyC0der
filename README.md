@@ -3,15 +3,15 @@
 🎓 Computer Science Student | 💻 Front-End & Back-End Developer  
 🧠 Passionate about learning and building real-world projects  
 
----
+
 
 ### 📫 Connect with Me  
-<p align="center " style="display: flex; gap: 10px;">
+<p align="center " style="display: flex; gap: 100px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="55" height="55"/>
 </p>
----
+
 
 ## 🧰 Tech Stack
 
@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/>
 </p>
 
----
+
 
 ### ⚛️ Frameworks & Libraries  
 <p align="left">
@@ -35,7 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="55" height="55"/>
 </p>
 
----
 
 ### 🛠️ Tools & Technologies  
 <p align="left">
@@ -43,8 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="55" height="55" style="filter: brightness(2);"/>
 </p>
--
 
+ 
 ⭐ *“Code. Learn. Build. Repeat.”* 🚀
 
 <!--
