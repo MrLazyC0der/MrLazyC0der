@@ -48,15 +48,15 @@
 ---
 
 ## 📫 Connect with Me  
-<p align="left" style="display: flex; justify-content: center; gap: 35px; text-decoration: none; outline: none; border: none;">
-  <a href="mailto:engabdallahmo@icloud.com" target="_blank" style="text-decoration: none; outline: none; border: none; filter: brightness(1.2);">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="50" height="50" style="border: none; outline: none;"/>
+<p align="center" style="display: flex; justify-content: center; gap: 35px; align-items: center;">
+  <a href="mailto:engabdallahmo@icloud.com" target="_blank" style="text-decoration: none; outline: none; border: none; display: inline-flex;">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="50" height="50" style="display: block;"/>
   </a>
-  <a href="https://www.linkedin.com/in/engabdallahmohamed/" target="_blank" style="text-decoration: none; outline: none; border: none; filter: brightness(1.2);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="border: none; outline: none;"/>
+  <a href="https://www.linkedin.com/in/engabdallahmohamed/" target="_blank" style="text-decoration: none; outline: none; border: none; display: inline-flex;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="display: block;"/>
   </a>
-  <a href="https://www.facebook.com/abdallah.mohamed.712132" target="_blank" style="text-decoration: none; outline: none; border: none; filter: brightness(1.2);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" style="border: none; outline: none;"/>
+  <a href="https://www.facebook.com/abdallah.mohamed.712132" target="_blank" style="text-decoration: none; outline: none; border: none; display: inline-flex;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" style="display: block;"/>
   </a>
 </p>
 
