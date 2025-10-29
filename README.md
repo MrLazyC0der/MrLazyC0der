@@ -6,16 +6,10 @@
 ---
 
 ### 📫 Connect with Me  
-<p align="center">
-  <a href="mailto:engabdallahmo@icloud.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="55" height="55"/>
-  </a>
-  <a href="https://www.linkedin.com/in/engabdallahmohamed/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="55" height="55"/>
-  </a>
-  <a href="https://www.facebook.com/abdallah.mohamed.712132" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="55" height="55"/>
-  </a>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="55" height="55"/>
 </p>
 ---
 
