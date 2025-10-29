@@ -48,7 +48,7 @@
 ---
 
 ## 📫 Connect with Me  
-<p align="left" style="display: flex; justify-content: center; gap: 35px;">
+<p align="left" style="display: flex; justify-content: center; gap: 35px; text-decoration: none; outline: none; border: none;">
   <a href="mailto:engabdallahmo@icloud.com" target="_blank" style="text-decoration: none; outline: none; border: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="50" height="50" style="border: none; outline: none;"/>
   </a>
