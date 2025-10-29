@@ -6,17 +6,18 @@
 
 
 ### 📫 Connect with Me  
-<p align=" center">
-  <a href="mailto:engabdallahmo@icloud.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="iCloud Email" width="55" height="55" style="margin-right: 15px;"/>
+<p align="center" style="text-decoration: none;">
+  <a href="mailto:engabdallahmo@icloud.com" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="55" height="55" style="margin-right: 25px;"/>
   </a>
-  <a href="https://www.linkedin.com/in/engabdallahmohamed/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="55" height="55" style="margin-right: 15px;"/>
+  <a href="https://www.linkedin.com/in/engabdallahmohamed/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="55" height="55" style="margin-right: 25px;"/>
   </a>
-  <a href="https://www.facebook.com/abdallah.mohamed.712132" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="55" height="55" style="margin-right: 15px;"/>
+  <a href="https://www.facebook.com/abdallah.mohamed.712132" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="55" height="55" style="margin-right: 25px;"/>
   </a>
 </p>
+
 
 
 
