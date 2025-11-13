@@ -14,7 +14,7 @@
 - 🌍 Currently focusing on **Full Stack Development** using **React**, **Node.js**, and **Next.js**.  
 - 🚀 I enjoy building clean, modern web applications that provide great user experiences.  
 - 📘 Always exploring new technologies — because learning never stops.  
-
+- ⚙️ Interested in **Backend Development** and **Cloud Technologies**.
 
 ---
 
@@ -43,41 +43,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="55" height="55"/>
 </p>
 
 ---
 
 ## 📫 Connect with Me  
-<p align="left" style="display: flex; justify-content: center; gap: 40px; align-items: center; background: transparent;">
+<p align="center" style="display: flex; justify-content: center; gap: 40px; align-items: center; background: transparent;">
+
   <a href="mailto:engabdallahmo@icloud.com" target="_blank" style="text-decoration: none; border: none; outline: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="50" height="50" style="border-radius: 12px; display: block; background: transparent;"/>
   </a>
+
   <a href="https://www.linkedin.com/in/engabdallahmohamed/" target="_blank" style="text-decoration: none; border: none; outline: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="border-radius: 12px; display: block; background: transparent;"/>
   </a>
+
+  <a href="https://discord.com/users/Engabdallahmo" target="_blank" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="50" height="50" style="border-radius: 12px; display: block; background: transparent;"/>
+  </a>
+
   <a href="https://www.facebook.com/abdallah.mohamed.712132" target="_blank" style="text-decoration: none; border: none; outline: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" style="border-radius: 12px; display: block; background: transparent;"/>
   </a>
+
 </p>
-
-
 
 ---
 
 <h3 align="center">⭐ “Code. Learn. Build. Repeat.” 🚀</h3>
 
-
-<!--
-**MrLazyC0der/MrLazyC0der** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
