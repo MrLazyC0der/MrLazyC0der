@@ -7,14 +7,13 @@
 </p>
 
 ---
+### 👋 Hi, I’m Abdallah Mohamed  
+🎓 **Computer Science student** at *Mansoura University*  
+💡 Passionate about **Software Development** using the **MERN Stack**  
+🔧 Skilled in: *HTML, CSS, JavaScript, React.js, Tailwind CSS, Node.js, Express.js, MongoDB*  
+🚀 Currently enhancing my **Backend Development** skills  
+📚 Always learning and exploring new technologies 🚀
 
-## 🧍‍♂️ About Me
-
-- 💡 I’m a **Computer Science student** who loves solving problems through code.  
-- 🌍 Currently focusing on **Full Stack Development** using **React**, **Node.js**, and **Next.js**.  
-- 🚀 I enjoy building clean, modern web applications that provide great user experiences.  
-- 📘 Always exploring new technologies — because learning never stops.  
-- ⚙️ Interested in **Backend Development** and **Cloud Technologies**.
 
 ---
 
@@ -54,24 +53,6 @@
 <p align="center" style="display: flex; justify-content: center; gap: 40px; align-items: center; background: transparent;">
 
   <a href="mailto:engabdallahmo@icloud.com" target="_blank" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="50" height="50" style="border-radius: 12px; display: block; background: transparent;"/>
-  </a>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="50" height="50" style="border-radius: 1
 
-  <a href="https://www.linkedin.com/in/engabdallahmohamed/" target="_blank" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="border-radius: 12px; display: block; background: transparent;"/>
-  </a>
-
-  <a href="https://discord.com/users/Engabdallahmo" target="_blank" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="50" height="50" style="border-radius: 12px; display: block; background: transparent;"/>
-  </a>
-
-  <a href="https://www.facebook.com/abdallah.mohamed.712132" target="_blank" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" style="border-radius: 12px; display: block; background: transparent;"/>
-  </a>
-
-</p>
-
----
-
-<h3 align="center">⭐ “Code. Learn. Build. Repeat.” 🚀</h3>
 
