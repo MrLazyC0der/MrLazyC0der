@@ -53,6 +53,23 @@
 <p align="center" style="display: flex; justify-content: center; gap: 40px; align-items: center; background: transparent;">
 
   <a href="mailto:engabdallahmo@icloud.com" target="_blank" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="50" height="50" style="border-radius: 1
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="50" height="50" style="border-radius: 12px; display: block; background: transparent;"/>
+  </a>
 
+  <a href="https://www.linkedin.com/in/engabdallahmohamed/" target="_blank" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="border-radius: 12px; display: block; background: transparent;"/>
+  </a>
 
+  <a href="https://discord.com/users/Engabdallahmo" target="_blank" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" width="50" height="50" style="border-radius: 12px; display: block; background: transparent;"/>
+  </a>
+
+  <a href="https://www.facebook.com/abdallah.mohamed.712132" target="_blank" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" style="border-radius: 12px; display: block; background: transparent;"/>
+  </a>
+
+</p>
+
+---
+
+<h3 align="center">⭐ “Code. Learn. Build. Repeat.” 🚀</h3>
