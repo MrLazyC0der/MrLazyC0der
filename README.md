@@ -97,7 +97,45 @@ const abdallah = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🔥 Latest & Best
+
+---
+
+#### 🗄️ [Blog & User REST API](https://github.com/MrLazyC0der/app8-backend) — `app8-backend`
+
+> A production-ready RESTful API with full authentication & blog management system.
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bcrypt-orange?style=flat-square"/>
+</p>
+
+**✨ Key Features:**
+- ✅ Modular Architecture (Controller / Service / Router)
+- ✅ Full User Auth — Sign Up, Sign In, Soft Delete
+- ✅ Blog Management — CRUD, Search, Filter by User
+- ✅ Password hashing with **bcrypt** + Regex validation
+- ✅ Soft Delete with Sequelize `paranoid: true`
+- ✅ One-to-Many relation (User hasMany Blogs)
+- ✅ Environment variables with dotenv
+
+---
+
+#### 🌐 [Personal Portfolio](https://github.com/MrLazyC0der/ENG_Abdallah) — `ENG_Abdallah`
+
+> A modern, responsive personal portfolio showcasing my projects and skills.
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+</p>
+
+---
+
+### 📁 Other Projects
 
 | 🗂️ Project | 💡 Description | 🛠️ Tech |
 |---|---|---|
