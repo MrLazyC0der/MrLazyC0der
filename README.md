@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0078ff,100:00c6ff&height=220&section=header&text=Abdallah%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MrLazyC0der%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Full+Stack+MERN+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%9A%80;Code.+Learn.+Build.+Repeat.+%E2%AD%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Full+Stack+MERN+Developer+%F0%9F%92%BB;Aspiring+Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Web+Development+Enthusiast+%F0%9F%8C%90;Always+Learning+New+Things+%F0%9F%9A%80;Code.+Learn.+Build.+Repeat.+%E2%AD%90)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=MrLazyC0der&label=Profile%20Views&color=0078ff&style=flat-square" alt="profile views" />
 
@@ -91,6 +91,23 @@ const abdallah = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrLazyC0der&bg_color=0D1117&color=00c6ff&line=0078ff&point=ffffff&area=true&hide_border=true"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🗂️ Project | 💡 Description | 🛠️ Tech |
+|---|---|---|
+| [🎓 EduTrack Pro](https://github.com/MrLazyC0der/EduTrack-Pro---Student-Management-System) | Student Management System with full CRUD | HTML, CSS, JS |
+| [🌤️ Weather Dashboard](https://github.com/MrLazyC0der/Weather_Dashboard) | Real-time weather app using weather API | JavaScript |
+| [📝 AppNote](https://github.com/MrLazyC0der/AppNote) | Note-taking app with clean UI | JavaScript |
+| [👨‍💻 Student CRUD System](https://github.com/MrLazyC0der/Student-CRUD-System) | Full CRUD system for student data | JavaScript |
+| [📐 Gauss-Jordan Solver](https://github.com/MrLazyC0der/Linear-Equation-Solver---Gauss-Jordan-Method) | Linear equation solver using Gauss-Jordan | C# |
+| [🍞 Bakery Website](https://github.com/MrLazyC0der/bakery) | Responsive bakery landing page | HTML, CSS |
+
 </div>
 
 ---
